@@ -1,0 +1,353 @@
+C:\Users\Fredy\source\repos\lanredes\lanredes\bin\Debug\lanredes.exe
+C:\Users\Fredy\source\repos\lanredes\lanredes\bin\Debug\lanredes.pdb
+C:\Users\Fredy\source\repos\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+C:\Users\Fredy\source\repos\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+C:\Users\Fredy\source\repos\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+C:\Users\Fredy\source\repos\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+C:\Users\Fredy\source\repos\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+C:\Users\Fredy\source\repos\lanredes\lanredes\obj\Debug\lanredes.exe
+C:\Users\Fredy\source\repos\lanredes\lanredes\obj\Debug\lanredes.pdb
+C:\Users\Fredy\source\repos\lanredes\lanredes\obj\Debug\lanredes.formCliente.resources
+C:\Users\Fredy\source\repos\lanredes\lanredes\bin\Debug\lanredes.exe.config
+C:\Users\Fredy\source\repos\lanredes\lanredes\obj\Debug\lanredes.formProductos.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\bin\Debug\lanredes.exe.config
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\bin\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\bin\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.formProductos.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.formCliente.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lanredes\lanredes\obj\Debug\lanredes.Login.resources
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\obj\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\obj\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\bin\Debug\lanredes.exe.config
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\bin\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\lanredes\lanredes\bin\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\lanredes.exe.config
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_inventario.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\MySql.Data.dll
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\Google.Protobuf.dll
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\MySql.Data.xml
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csproj.CopyComplete
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.exe
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.pdb
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\lanredes.exe.config
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\lanredes.exe
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\lanredes.pdb
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\MySql.Data.dll
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\Google.Protobuf.dll
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\bin\Debug\MySql.Data.xml
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csproj.CopyComplete
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_cliente.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_Empleados.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.exe
+C:\Users\Jhon Rodrìguez\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.pdb
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_cliente.resources
+D:\Dropbox\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\lanredes\lanredes\obj\Debug\lanredes.form_Empleados.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_cliente.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_Empleados.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\bin\Debug\lanredes.exe.config
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\bin\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\bin\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\bin\Debug\MySql.Data.dll
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\bin\Debug\Google.Protobuf.dll
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\bin\Debug\MySql.Data.xml
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.csproj.CopyComplete
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_Productos.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\lan_redes_SinBase(Jhon aca toca tener cuidado o_o)\New folder\lanredes\lanredes\obj\Debug\lanredes.form_Herramientas.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+D:\lanredes\lanredes\obj\Debug\lanredes.form_Herramientas.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_Productos.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_cliente.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_Empleados.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+D:\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+D:\lanredes\lanredes\obj\Debug\lanredes.exe
+D:\lanredes\lanredes\obj\Debug\lanredes.pdb
+D:\lanredes\lanredes\bin\Debug\lanredes.exe.config
+D:\lanredes\lanredes\bin\Debug\lanredes.exe
+D:\lanredes\lanredes\bin\Debug\lanredes.pdb
+D:\lanredes\lanredes\bin\Debug\Google.Protobuf.dll
+D:\lanredes\lanredes\bin\Debug\MySql.Data.xml
+D:\lanredes\lanredes\obj\Debug\lanredes.form_Proveedores.resources
+D:\lanredes\lanredes\obj\Debug\lanredes.csproj.CopyComplete
+D:\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProveedor.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProveedor.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_Herramientas.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_Productos.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_cliente.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_Empleados.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_Proveedores.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.exe
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.pdb
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\bin\Debug\lanredes.exe.config
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\bin\Debug\lanredes.exe
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\bin\Debug\lanredes.pdb
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\bin\Debug\MySql.Data.dll
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\bin\Debug\Google.Protobuf.dll
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\bin\Debug\MySql.Data.xml
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.csproj.CopyComplete
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_Compras.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra_Compras.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.reportes.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes\lanredes\lanredes\obj\Debug\lanredes.form_Reporte_HerramientasDisponibles.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.exe
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.pdb
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\bin\Debug\lanredes.exe.config
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\bin\Debug\lanredes.exe
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\bin\Debug\lanredes.pdb
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\bin\Debug\MySql.Data.dll
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\bin\Debug\Google.Protobuf.dll
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\bin\Debug\MySql.Data.xml
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProveedor.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Compras.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Empleados.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Herramientas.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra_Compras.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Productos.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_cliente.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Proveedores.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Reporte_HerramientasDisponibles.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.reportes.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.csproj.CopyComplete
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_About.resources
+D:\UNIVERSIDAD\Proyecto_Integrador\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.Desarrolladores.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\bin\Debug\lanredes.exe.config
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\bin\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\bin\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\bin\Debug\MySql.Data.dll
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\bin\Debug\Google.Protobuf.dll
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\bin\Debug\MySql.Data.xml
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.Desarrolladores.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_About.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProveedor.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Compras.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Empleados.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Herramientas.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra_Compras.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Productos.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_cliente.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Proveedores.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_Reporte_HerramientasDisponibles.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.reportes.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.csproj.CopyComplete
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.exe
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.pdb
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.uppdate.resources
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\bin\Debug\lanredes.exe.manifest
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\bin\Debug\lanredes.application
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.TrustInfo.xml
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.exe.manifest
+C:\Users\Fredy\Dropbox\trabajos udi\Programacion ll\Final\final 2.0\lanredes OFICIAL\lanredes\lanredes\obj\Debug\lanredes.application
+Z:\cd\lanredes\lanredes\bin\Debug\lanredes.exe.config
+Z:\cd\lanredes\lanredes\bin\Debug\lanredes.exe.manifest
+Z:\cd\lanredes\lanredes\bin\Debug\lanredes.application
+Z:\cd\lanredes\lanredes\bin\Debug\lanredes.exe
+Z:\cd\lanredes\lanredes\bin\Debug\lanredes.pdb
+Z:\cd\lanredes\lanredes\bin\Debug\MySql.Data.dll
+Z:\cd\lanredes\lanredes\bin\Debug\Google.Protobuf.dll
+Z:\cd\lanredes\lanredes\bin\Debug\MySql.Data.xml
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.Desarrolladores.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_About.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProveedor.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_Compras.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_Empleados.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_Herramientas.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra_Compras.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_Productos.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_cliente.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_Proveedores.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_Reporte_HerramientasDisponibles.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.reportes.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.uppdate.resources
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.TrustInfo.xml
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.exe.manifest
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.application
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.csproj.CopyComplete
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.exe
+Z:\cd\lanredes\lanredes\obj\Debug\lanredes.pdb
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\bin\Debug\lanredes.exe.config
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\bin\Debug\lanredes.exe.manifest
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\bin\Debug\lanredes.application
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\bin\Debug\lanredes.exe
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\bin\Debug\lanredes.pdb
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\bin\Debug\MySql.Data.dll
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\bin\Debug\Google.Protobuf.dll
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\bin\Debug\MySql.Data.xml
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.csprojAssemblyReference.cache
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.Desarrolladores.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_About.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProveedor.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_Compras.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_Empleados.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_Herramientas.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_login.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_NuevaCompra_Compras.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_nuevaVenta_Ventas.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_Productos.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_AgragarCliente.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_AgregarEmpleado.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_AgregarHerramienta.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_AgregarProducto.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_Buscar_inventario.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_CambioContraseña.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_cliente.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_Proveedores.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_Reporte_HerramientasDisponibles.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.form_ventas.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.Home.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.Properties.Resources.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.reportes.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.uppdate.resources
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.csproj.GenerateResource.cache
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.csproj.CoreCompileInputs.cache
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.TrustInfo.xml
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.exe.manifest
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.application
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.csproj.CopyComplete
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.exe
+Z:\OrionSoft\OrionSoft\lanredes\lanredes\obj\Debug\lanredes.pdb

@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2EAF8710-A3A8-4E16-9D78-1C0A1B8046D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>lanredes</RootNamespace>
+    <AssemblyName>lanredes</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>sftp://www.jhonv.com/orion/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>https://github.com/jhonfv/OrionSoft_XXXX/</InstallUrl>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>red-de-afiliados-a-la-empresa %282%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>E969CB3EFD4374E17E0CDC52F1D6CB8A054ECDF2</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>lanredes_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 8.0.12\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet">
+      <HintPath>..\Renci.SshNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos.cs" />
+    <Compile Include="Desarrolladores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desarrolladores.designer.cs">
+      <DependentUpon>Desarrolladores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_About.designer.cs">
+      <DependentUpon>form_About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_AgregarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_AgregarProveedor.designer.cs">
+      <DependentUpon>form_AgregarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_Compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_Compras.Designer.cs">
+      <DependentUpon>form_Compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_Empleados.designer.cs">
+      <DependentUpon>form_Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_Herramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_Herramientas.Designer.cs">
+      <DependentUpon>form_Herramientas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_login.designer.cs">
+      <DependentUpon>form_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_NuevaCompra_Compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_NuevaCompra_Compras.Designer.cs" />
+    <Compile Include="form_nuevaVenta_Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_nuevaVenta_Ventas.Designer.cs" />
+    <Compile Include="form_Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_Producto.Designer.cs">
+      <DependentUpon>form_Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_AgragarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_AgragarCliente.Designer.cs">
+      <DependentUpon>form_AgragarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_AgregarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_AgregarEmpleado.Designer.cs">
+      <DependentUpon>form_AgregarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_AgregarHerramienta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_AgregarHerramienta.Designer.cs">
+      <DependentUpon>form_AgregarHerramienta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_AgregarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_AgregarProducto.Designer.cs">
+      <DependentUpon>form_AgregarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_Buscar_inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_Buscar_inventario.Designer.cs">
+      <DependentUpon>form_Buscar_inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_CambioContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_CambioContraseña.Designer.cs">
+      <DependentUpon>form_CambioContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_cliente.Designer.cs">
+      <DependentUpon>form_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_Proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_Proveedores.designer.cs">
+      <DependentUpon>form_Proveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_Reporte_HerramientasDisponibles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_Reporte_HerramientasDisponibles.designer.cs">
+      <DependentUpon>form_Reporte_HerramientasDisponibles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_ventas.Designer.cs">
+      <DependentUpon>form_ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logica.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes.designer.cs">
+      <DependentUpon>reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uppdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uppdate.Designer.cs">
+      <DependentUpon>uppdate.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Desarrolladores.resx">
+      <DependentUpon>Desarrolladores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_About.resx">
+      <DependentUpon>form_About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_AgregarProveedor.resx">
+      <DependentUpon>form_AgregarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_Compras.resx">
+      <DependentUpon>form_Compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_Empleados.resx">
+      <DependentUpon>form_Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_Herramientas.resx">
+      <DependentUpon>form_Herramientas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_login.resx">
+      <DependentUpon>form_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_NuevaCompra_Compras.resx" />
+    <EmbeddedResource Include="form_nuevaVenta_Ventas.resx" />
+    <EmbeddedResource Include="form_Producto.resx">
+      <DependentUpon>form_Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_AgragarCliente.resx">
+      <DependentUpon>form_AgragarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_AgregarEmpleado.resx">
+      <DependentUpon>form_AgregarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_AgregarHerramienta.resx">
+      <DependentUpon>form_AgregarHerramienta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_AgregarProducto.resx">
+      <DependentUpon>form_AgregarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_Buscar_inventario.resx">
+      <DependentUpon>form_Buscar_inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_CambioContraseña.resx">
+      <DependentUpon>form_CambioContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_cliente.resx">
+      <DependentUpon>form_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_Proveedores.resx">
+      <DependentUpon>form_Proveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_Reporte_HerramientasDisponibles.resx">
+      <DependentUpon>form_Reporte_HerramientasDisponibles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_ventas.resx">
+      <DependentUpon>form_ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reportes.resx">
+      <DependentUpon>reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uppdate.resx">
+      <DependentUpon>uppdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="lanredes_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="red-de-afiliados-a-la-empresa %281%29.ico" />
+    <Content Include="red-de-afiliados-a-la-empresa %282%29.ico" />
+    <Content Include="red-de-afiliados-a-la-empresa.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
